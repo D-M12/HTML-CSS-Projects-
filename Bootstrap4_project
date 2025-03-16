@@ -1,4 +1,0 @@
-git add .
-git commit -m "Initial commit for bootstrap4_project"
-git remote add origin https://github.com/D-M12/Bootstrap4_project.git
-git push -u origin master
